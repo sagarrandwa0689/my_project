@@ -1,0 +1,10 @@
+[
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d70"},
+    "email": "newuser@example.com",
+    "otp": "123456",
+    "createdAt": {"$date": "2025-11-02T12:00:00.000Z"},
+    "updatedAt": {"$date": "2025-11-02T12:00:00.000Z"},
+    "__v": 0
+  }
+]

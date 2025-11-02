@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d40"},
+    "title": "Welcome to the Course",
+    "description": "Introduction to the course curriculum, instructor background, and what you'll learn throughout this bootcamp.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "8:45",
+    "createdAt": {"$date": "2025-10-15T10:15:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T10:15:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d41"},
+    "title": "Setting Up Development Environment",
+    "description": "Install Node.js, MongoDB, VS Code, and essential extensions. Set up your first MERN project.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "15:30",
+    "createdAt": {"$date": "2025-10-15T10:20:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T10:20:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d42"},
+    "title": "Creating RESTful APIs with Express",
+    "description": "Learn to build scalable REST APIs using Express.js, middleware, routing, and error handling.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "42:15",
+    "createdAt": {"$date": "2025-10-15T10:45:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T10:45:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d43"},
+    "title": "MongoDB Database Design",
+    "description": "Understanding NoSQL concepts, schema design, and CRUD operations with Mongoose.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "38:20",
+    "createdAt": {"$date": "2025-10-15T10:50:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T10:50:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d44"},
+    "title": "React Components and Props",
+    "description": "Build reusable React components, understand props, and component composition.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "35:50",
+    "createdAt": {"$date": "2025-10-15T11:15:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T11:15:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d45"},
+    "title": "State Management with Redux",
+    "description": "Master Redux for state management in large React applications.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "45:10",
+    "createdAt": {"$date": "2025-10-15T11:20:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T11:20:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d46"},
+    "title": "Custom Hooks and Performance Optimization",
+    "description": "Create custom hooks, memoization techniques, and React performance best practices.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "52:30",
+    "createdAt": {"$date": "2025-10-20T11:15:00.000Z"},
+    "updatedAt": {"$date": "2025-10-20T11:15:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d47"},
+    "title": "NumPy and Pandas Basics",
+    "description": "Work with arrays, dataframes, and data manipulation using NumPy and Pandas libraries.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "48:25",
+    "createdAt": {"$date": "2025-09-25T14:15:00.000Z"},
+    "updatedAt": {"$date": "2025-09-25T14:15:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d48"},
+    "title": "Linear Regression and Decision Trees",
+    "description": "Implement your first machine learning models from scratch and using scikit-learn.",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "timeDuration": "55:40",
+    "createdAt": {"$date": "2025-09-25T14:45:00.000Z"},
+    "updatedAt": {"$date": "2025-09-25T14:45:00.000Z"},
+    "__v": 0
+  }
+]

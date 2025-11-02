@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d10"},
+    "courseName": "Complete MERN Stack Web Development Bootcamp",
+    "courseDescription": "Master the MERN stack (MongoDB, Express.js, React.js, Node.js) and build full-stack web applications from scratch. This comprehensive bootcamp covers everything from basics to advanced concepts including authentication, payment integration, and deployment.",
+    "instructor": {"$oid": "650a1b2c3d4e5f6a7b8c9d01"},
+    "whatYouWillLearn": "Build production-ready web applications, Master React hooks and Redux, Create RESTful APIs with Node.js and Express, Work with MongoDB database, Implement authentication and authorization, Integrate payment gateways, Deploy applications to cloud platforms",
+    "courseContent": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d30"},
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d31"},
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d32"}
+    ],
+    "ratingAndReviews": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d60"}
+    ],
+    "price": 4999,
+    "thumbnail": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?w=800",
+    "tag": ["Web Development", "MERN Stack", "Full Stack", "JavaScript"],
+    "category": {"$oid": "650a1b2c3d4e5f6a7b8c9d20"},
+    "studentsEnrolled": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d05"}
+    ],
+    "instructions": ["Basic knowledge of HTML, CSS, and JavaScript required", "A computer with internet connection", "Enthusiasm to learn and build projects"],
+    "status": "Published",
+    "createdAt": {"$date": "2025-10-15T10:00:00.000Z"},
+    "updatedAt": {"$date": "2025-11-01T15:30:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d11"},
+    "courseName": "Advanced React.js Masterclass",
+    "courseDescription": "Take your React skills to the next level with advanced patterns, performance optimization, testing, and best practices. Learn hooks in-depth, custom hooks, Context API, Redux Toolkit, and modern React patterns.",
+    "instructor": {"$oid": "650a1b2c3d4e5f6a7b8c9d01"},
+    "whatYouWillLearn": "Master advanced React patterns, Optimize React performance, Write unit and integration tests, Build scalable React applications, Use Redux Toolkit effectively, Implement server-side rendering",
+    "courseContent": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d33"}
+    ],
+    "ratingAndReviews": [],
+    "price": 3499,
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800",
+    "tag": ["React", "JavaScript", "Frontend", "Advanced"],
+    "category": {"$oid": "650a1b2c3d4e5f6a7b8c9d20"},
+    "studentsEnrolled": [],
+    "instructions": ["Good understanding of React basics", "Familiarity with JavaScript ES6+", "Node.js installed on your system"],
+    "status": "Published",
+    "createdAt": {"$date": "2025-10-20T11:00:00.000Z"},
+    "updatedAt": {"$date": "2025-10-25T09:15:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d12"},
+    "courseName": "Data Science with Python - Complete Guide",
+    "courseDescription": "Comprehensive course covering data analysis, visualization, machine learning, and deep learning using Python. Work with real-world datasets and build predictive models.",
+    "instructor": {"$oid": "650a1b2c3d4e5f6a7b8c9d03"},
+    "whatYouWillLearn": "Python programming for data science, Data manipulation with Pandas, Data visualization with Matplotlib and Seaborn, Machine learning algorithms, Deep learning with TensorFlow, Statistical analysis and hypothesis testing",
+    "courseContent": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d34"},
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d35"}
+    ],
+    "ratingAndReviews": [],
+    "price": 5999,
+    "thumbnail": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+    "tag": ["Data Science", "Python", "Machine Learning", "AI"],
+    "category": {"$oid": "650a1b2c3d4e5f6a7b8c9d21"},
+    "studentsEnrolled": [],
+    "instructions": ["Basic programming knowledge helpful but not required", "Mathematics fundamentals (algebra, statistics)", "Jupyter Notebook setup"],
+    "status": "Published",
+    "createdAt": {"$date": "2025-09-25T14:00:00.000Z"},
+    "updatedAt": {"$date": "2025-10-28T16:20:00.000Z"},
+    "__v": 0
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d30"},
+    "sectionName": "Introduction to MERN Stack",
+    "subSection": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d40"},
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d41"}
+    ],
+    "createdAt": {"$date": "2025-10-15T10:15:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T10:30:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d31"},
+    "sectionName": "Backend Development with Node.js",
+    "subSection": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d42"},
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d43"}
+    ],
+    "createdAt": {"$date": "2025-10-15T10:45:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T11:00:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d32"},
+    "sectionName": "Frontend Development with React",
+    "subSection": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d44"},
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d45"}
+    ],
+    "createdAt": {"$date": "2025-10-15T11:15:00.000Z"},
+    "updatedAt": {"$date": "2025-10-15T11:30:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d33"},
+    "sectionName": "Advanced React Patterns",
+    "subSection": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d46"}
+    ],
+    "createdAt": {"$date": "2025-10-20T11:15:00.000Z"},
+    "updatedAt": {"$date": "2025-10-20T11:30:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d34"},
+    "sectionName": "Python Fundamentals for Data Science",
+    "subSection": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d47"}
+    ],
+    "createdAt": {"$date": "2025-09-25T14:15:00.000Z"},
+    "updatedAt": {"$date": "2025-09-25T14:30:00.000Z"},
+    "__v": 0
+  },
+  {
+    "_id": {"$oid": "650a1b2c3d4e5f6a7b8c9d35"},
+    "sectionName": "Machine Learning Algorithms",
+    "subSection": [
+      {"$oid": "650a1b2c3d4e5f6a7b8c9d48"}
+    ],
+    "createdAt": {"$date": "2025-09-25T14:45:00.000Z"},
+    "updatedAt": {"$date": "2025-09-25T15:00:00.000Z"},
+    "__v": 0
+  }
+]
